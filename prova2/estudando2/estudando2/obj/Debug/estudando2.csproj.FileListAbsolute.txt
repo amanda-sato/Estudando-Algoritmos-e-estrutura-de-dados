@@ -1,0 +1,7 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\obj\Debug\estudando2.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\obj\Debug\estudando2.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\bin\Debug\estudando2.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\bin\Debug\estudando2.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\bin\Debug\estudando2.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\obj\Debug\estudando2.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\estudando2\estudando2\obj\Debug\estudando2.pdb

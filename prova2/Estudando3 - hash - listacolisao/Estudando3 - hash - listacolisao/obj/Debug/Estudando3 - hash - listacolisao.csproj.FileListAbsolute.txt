@@ -1,0 +1,7 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\bin\Debug\Estudando3 - hash - listacolisao.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\bin\Debug\Estudando3 - hash - listacolisao.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\bin\Debug\Estudando3 - hash - listacolisao.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\obj\Debug\Estudando3 - hash - listacolisao.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\obj\Debug\Estudando3 - hash - listacolisao.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\obj\Debug\Estudando3 - hash - listacolisao.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\Estudando3 - hash - listacolisao\Estudando3 - hash - listacolisao\obj\Debug\Estudando3 - hash - listacolisao.pdb

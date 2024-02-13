@@ -1,0 +1,18 @@
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.dll
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.dll
+C:\Users\d010788\source\repos\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.dll
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.dll
+C:\Users\amand\OneDrive\Ambiente de Trabalho\IPMAIA\2º Ano\1º Semestre\Algoritmos e estrutura de dados\estudar\exercícios\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.dll
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\bin\Debug\Colecoes.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.dll
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Aula20231106_ConjuntoGenericoSobreArrays\Colecoes\obj\Debug\Colecoes.pdb

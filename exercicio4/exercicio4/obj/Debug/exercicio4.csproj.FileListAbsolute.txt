@@ -1,0 +1,14 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\bin\Debug\exercicio4.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\bin\Debug\exercicio4.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\bin\Debug\exercicio4.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\obj\Debug\exercicio4.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\exercicio4\exercicio4\obj\Debug\exercicio4.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\bin\Debug\exercicio4.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\bin\Debug\exercicio4.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\bin\Debug\exercicio4.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\obj\Debug\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\obj\Debug\exercicio4.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\exercicio4\exercicio4\obj\Debug\exercicio4.pdb

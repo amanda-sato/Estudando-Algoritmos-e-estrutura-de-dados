@@ -1,0 +1,28 @@
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.AssemblyReference.cache
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe.config
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\bin\Debug\20231120_Grupo3.pdb
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\obj\Debug\20231120_Grupo3.exe
+C:\Users\d010788\source\repos\20231120_Grupo3\20231120_Grupo3\obj\Debug\20231120_Grupo3.pdb
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe.config
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.pdb
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.AssemblyReference.cache
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.exe
+C:\Users\d010788\source\repos\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.pdb
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.AssemblyReference.cache
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.exe
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.pdb
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe.config
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe
+C:\Users\amand\Downloads\20231204_Grupo3_ListaLigada\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\bin\Debug\20231120_Grupo3.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\20231204_Grupo3_ListaLigada - estudando\20231204_Grupo3_ListaLigada\20231120_Grupo3\obj\Debug\20231120_Grupo3.pdb

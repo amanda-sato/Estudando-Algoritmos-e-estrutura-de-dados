@@ -1,0 +1,7 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\bin\Debug\estudando.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\bin\Debug\estudando.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\bin\Debug\estudando.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\obj\Debug\estudando.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\obj\Debug\estudando.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\obj\Debug\estudando.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\estudando\estudando\obj\Debug\estudando.pdb

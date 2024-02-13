@@ -1,0 +1,7 @@
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\bin\Debug\linearprobing.exe.config
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\bin\Debug\linearprobing.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\bin\Debug\linearprobing.pdb
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\obj\Debug\linearprobing.csproj.AssemblyReference.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\obj\Debug\linearprobing.csproj.CoreCompileInputs.cache
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\obj\Debug\linearprobing.exe
+C:\Users\amand\OneDrive\Ambiente de Trabalho\Algoritmos - prova\prova2\linearprobing\linearprobing\obj\Debug\linearprobing.pdb
